@@ -1,0 +1,5 @@
+{
+  "name": "Google AI VRP Hub",
+  "description": "An interactive guide and reward calculator for the Google AI Vulnerability Reward Program.",
+  "requestFramePermissions": []
+}
